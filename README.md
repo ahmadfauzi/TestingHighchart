@@ -1,2 +1,2 @@
 # TestingHighcharts
- Testing regarding data on Highcharts
+ Testing regarding data on Highcharts using Selenium 4
